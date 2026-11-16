@@ -2,6 +2,7 @@
 MERN Project for COP 4331C Final
 
 ## Group Members:
+* Ravi Yarlagadda
 * Sabrina Serrajian
 * Amelia Enderle
 * Bradley Fernandez
